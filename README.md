@@ -6,7 +6,7 @@ In this project, the code is using CSS and JavaScript to track the movement of t
 
 How to Run: Download the files, and pull out "index.html" into a browser to try!
 
-Future Improvements:
+Future Improvements: Future improvements to this project could be updating the CSS to form a person with a face, and not just the eyes.
 
 License information: Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
